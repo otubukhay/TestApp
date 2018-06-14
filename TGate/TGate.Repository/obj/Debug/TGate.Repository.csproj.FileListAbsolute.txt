@@ -1,0 +1,6 @@
+C:\Future\Test\TestApp\TGate\TGate.Repository\bin\Debug\TGate.Repository.dll
+C:\Future\Test\TestApp\TGate\TGate.Repository\bin\Debug\TGate.Repository.pdb
+C:\Future\Test\TestApp\TGate\TGate.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Future\Test\TestApp\TGate\TGate.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Future\Test\TestApp\TGate\TGate.Repository\obj\Debug\TGate.Repository.dll
+C:\Future\Test\TestApp\TGate\TGate.Repository\obj\Debug\TGate.Repository.pdb
