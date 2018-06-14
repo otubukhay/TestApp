@@ -11,7 +11,7 @@ namespace TGate.API.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
-
+            Newtonsoft.Json.Linq.JObject obj = Repository.Repository.GetData();
             return View();
         }
     }
