@@ -9,11 +9,11 @@ namespace TGate.Repository
 {
     public class Repository
     {
-
-        public static JObject GetData() {
-            string data = "{id : 1, name : 'Otubu Kay'}";
+        public static JObject GetData()
+        {
+            string data = "{id : 1, name : \"Otubu Kay\"}";
             JObject b = JObject.Parse(data);
-            return b; 
+            return b;
         }
     }
 }

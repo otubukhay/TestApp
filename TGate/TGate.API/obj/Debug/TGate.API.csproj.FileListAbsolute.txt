@@ -85,6 +85,5 @@ C:\Future\Test\TestApp\TGate\TGate.API\bin\Microsoft.Owin.Security.Google.xml
 C:\Future\Test\TestApp\TGate\TGate.API\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Future\Test\TestApp\TGate\TGate.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Future\Test\TestApp\TGate\TGate.API\bin\System.Web.Http.Owin.xml
-C:\Future\Test\TestApp\TGate\TGate.API\obj\Debug\TGate.API.csprojResolveAssemblyReference.cache
 C:\Future\Test\TestApp\TGate\TGate.API\obj\Debug\TGate.API.dll
 C:\Future\Test\TestApp\TGate\TGate.API\obj\Debug\TGate.API.pdb
